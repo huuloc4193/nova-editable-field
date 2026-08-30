@@ -37,6 +37,7 @@
     ],
     "license": "MIT",
     "require": {
+        "laravel/framework": "^13.0",
         "laravel/nova": "^5.0"
     },
     "autoload": {
