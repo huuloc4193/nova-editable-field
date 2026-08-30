@@ -1,5 +1,6 @@
 {
-    "name": "ferdiunal/nova-editable-field",
+    "name": "huuloc4193/pewvn-nova-editable-field",
+    "version": "2.0",
     "description": "A Laravel Nova package to make fields editable.",
     "authors": [
         {
