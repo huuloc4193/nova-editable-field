@@ -7,7 +7,7 @@ The purpose of this Laravel Nova Field is to allow easy updates to records withi
 ## Installation
 
 ```bash
-composer require ferdiunal/nova-editable-field
+composer require huuloc4193/nova-editable-field
 ```
 
 ## Usage
